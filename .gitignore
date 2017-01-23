@@ -1,0 +1,7 @@
+*.user
+
+/src/packages
+/src/.vs
+
+/src/ASP.Net.MVC.Azure.Slots.Demo.Web/bin
+/src/ASP.Net.MVC.Azure.Slots.Demo.Web/obj
